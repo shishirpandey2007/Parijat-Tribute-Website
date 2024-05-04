@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(201, 218, 234);
+}
+.container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    flex-direction: column;  
+    text-align: center;     
+  }
+  
+  .Images img {
+    border-radius: 50%;
+    max-width: 100px;        
+    height: auto;            
+    margin-bottom: 20px;    
+  }
+  
+  #Heading h2 {
+    margin: 0;
+  }
+  #quote {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  #paragraph {
+    font-family:monospace;
+  }
+  
